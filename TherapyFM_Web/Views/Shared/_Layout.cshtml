@@ -1,0 +1,375 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+    <title>TherapyFM</title>
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="~/images/icons/favicon.png">
+
+    <link rel="stylesheet" type="text/css" href="~/lib/vendor/fontawesome-free/css/all.min.css">
+
+    <!-- Plugins CSS File -->
+    <link rel="stylesheet" type="text/css" href="~/lib/vendor/owl-carousel/owl.carousel.min.css">
+
+    <!-- Main CSS File -->
+    @await RenderSectionAsync("styles", required: true)
+</head>
+<body class="home">
+
+    <div class="page-wrapper">
+        <header class="header">
+
+            <div class="header-top">
+                <div class="container">
+                    <div class="header-left">
+                        <p class="welcome-msg">Address: </p>
+                    </div>
+                    <div class="header-right">
+                        <!-- End DropDown Menu -->
+                        <div class="dropdown ml-5">
+                            <a href="#language">ENG</a>
+                            <ul class="dropdown-box">
+                                <li>
+                                    <a href="#USD">ENG</a>
+                                </li>
+                                <li>
+                                    <a href="#RUS">RUS</a>
+                                </li>
+                                <li>
+                                    <a href="#AZE">AZE</a>
+                                </li>
+                            </ul>
+                        </div>
+                        <!-- End DropDown Menu -->
+                        <span class="divider"></span>
+                        <a href="/Contact/Index" class="contact d-lg-show"><i class="d-icon-map"></i>Contact</a>
+                        <!-- End of Login -->
+                    </div>
+                </div>
+            </div>
+            <!-- End HeaderTop -->
+            <div class="header-middle sticky-header fix-top sticky-content">
+                <div class="container">
+                    <div class="header-left">
+                        <a href="#" class="mobile-menu-toggle">
+                            <i class="d-icon-bars2"></i>
+                        </a>
+                        <a href="/Home/Index" class="logo">
+                            <img src="~/images/logo.png" alt="logo" width="233" height="84" />
+                        </a>
+                        <nav class="main-nav">
+                            <ul class="menu">
+                                <li class="active">
+                                    <a href="/Home/Index" class="nav-title">Home</a>
+                                </li>
+                                <li>
+                                    <a class="nav-title">Hair</a>
+                                    <div class="megamenu">
+                                        <div class="row">
+                                            <div class="col-6 col-sm-4 col-md-3 col-lg-4">
+                                                <h4 class="menu-title">Hair Services</h4>
+                                                <ul>
+                                                    <li><a>FUE Hair transplantation</a></li>
+                                                    <li><a>SAPPHIRE FUE Hair transplantation</a></li>
+                                                    <li><a>DHI Hair transplantation</a></li>
+                                                    <li><a>UNBARBERED Hair transplantation</a></li>
+                                                    <li><a>Beard transplantation</a></li>
+                                                    <li><a>BROW transplantation</a></li>
+                                                    <li><a>PRP treatment</a></li>
+                                                </ul>
+                                            </div>
+                                            <div class="col-6 col-sm-4 col-md-3 col-lg-4 menu-banner menu-banner1 banner banner-fixed">
+                                                <figure>
+                                                    <img src="~/images/menu/hair.jpg" alt="Menu banner" width="221"
+                                                         height="330" />
+                                                </figure>
+                                                <div class="banner-content y-50">
+                                                    <h4 class="banner-subtitle font-weight-bold text-primary ls-m">
+                                                    </h4>
+                                                    <h3 class="banner-title font-weight-bold"></h3>
+                                                    <a class="btn btn-link btn-underline">
+                                                        <i class="d-icon-arrow-right"></i>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                            <!-- End Megamenu -->
+                                        </div>
+                                    </div>
+                                </li>
+                                <li>
+                                    <a class="nav-title">Dental</a>
+                                    <div class="megamenu">
+                                        <div class="row">
+                                            <div class="col-6 col-sm-4 col-md-3 col-lg-4">
+                                                <h4 class="menu-title">Dental Services</h4>
+                                                <ul>
+                                                    <li><a>Mouth and Jaw surgery</a></li>
+                                                    <li><a>Implants</a></li>
+                                                    <li><a>Prosthesis</a></li>
+                                                    <li><a>Pedodontics/Endodontics</a></li>
+                                                    <li><a>Teeth whitening</a></li>
+                                                </ul>
+                                            </div>
+                                            <div class="col-6 col-sm-4 col-md-3 col-lg-4 menu-banner menu-banner2 banner banner-fixed">
+                                                <figure>
+                                                    <img src="~/images/menu/dental.jpg" alt="Menu banner" width="221"
+                                                         height="330" />
+                                                </figure>
+                                                <div class="banner-content x-50 text-center">
+                                                    <h3 class="banner-title text-white text-uppercase"></h3>
+                                                    <h4 class="banner-subtitle font-weight-bold text-white mb-0"></h4>
+                                                </div>
+                                            </div>
+                                            <!-- End MegaMenu -->
+                                        </div>
+                                    </div>
+                                </li>
+                                <li>
+                                    <a class="nav-title">Aesthetic</a>
+                                    <div class="megamenu">
+                                        <div class="row">
+                                            <div class="col-6 col-sm-4 col-md-3 col-lg-4">
+                                                <h4 class="menu-title">Aesthetic Services</h4>
+                                                <ul>
+                                                    <li><a>Rhinoplasty</a></li>
+                                                    <li><a>Botox | Filling</a></li>
+                                                    <li><a>Liposuction</a></li>
+                                                    <li><a>Breast augmentation | reduction</a></li>
+                                                    <li><a>Spot treatment</a></li>
+                                                    <li><a>Laser epilation</a></li>
+                                                </ul>
+                                            </div>
+                                            <div class="col-6 col-sm-4 col-md-3 col-lg-4 menu-banner menu-banner2 banner banner-fixed">
+                                                <figure>
+                                                    <img src="~/images/menu/aethtetic.jpg" alt="Menu banner" width="221"
+                                                         height="330" />
+                                                </figure>
+                                                <div class="banner-content x-50 text-center">
+                                                    <h3 class="banner-title text-white text-uppercase"></h3>
+                                                    <h4 class="banner-subtitle font-weight-bold text-white mb-0"></h4>
+                                                </div>
+                                            </div>
+                                            <!-- End MegaMenu -->
+                                        </div>
+                                    </div>
+                                </li>
+                                <li>
+                                    <a href="/Services/Index" class="nav-title">Services</a>
+                                </li>
+                                <li>
+                                    <a href="/About/Index" class="nav-title">About Us</a>
+                                </li>
+                                <li>
+                                    <a href="/Contact/Index" class="nav-title">Contact Us</a>
+                                </li>
+                            </ul>
+                        </nav>
+                        <!-- End Logo -->
+                    </div>
+                    <div class="header-right">
+                        <a href="tel:#" class="icon-box icon-box-side">
+                            <div class="icon-box-icon mr-0 mr-lg-2">
+                                <i class="d-icon-phone"></i>
+                            </div>
+                            <div class="icon-box-content d-lg-show">
+                                <h4 class="icon-box-title">Call Us Now:</h4>
+                                <p>json:data</p>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+        </header>
+    @RenderBody()
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-top">
+                <div class="row align-items-center">
+                    <div class="col-lg-3">
+                        <a href="index.html" class="logo-footer">
+                            <img src="~/images/logo.png" alt="logo-footer" width="254" height="83" />
+                        </a>
+                        <!-- End FooterLogo -->
+                    </div>
+                    <div class="col-lg-9">
+                        <p>
+                            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur laudantium
+                            deleniti asperiores cumque neque corrupti magni amet aut perspiciatis ex sunt facilis
+                            itaque accusantium vitae dicta dolorum maxime quas, delectus incidunt ipsum atque
+                            debitis rerum ad. Facere, tempore deserunt. Minus eius maxime incidunt repellat
+                            distinctio harum exercitationem ipsam unde dolores expedita perferendis fugit dolorem
+                            quas at enim sit doloribus dolor deserunt, aut placeat, laudantium, ex quo. Recusandae,
+                            omnis ducimus nobis inventore, expedita labore perspiciatis aliquam natus sint
+                            dignissimos quibusdam voluptatum!
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <!-- End FooterTop -->
+            <div class="footer-middle">
+                <div class="row">
+                    <div class="col-lg-3 col-md-6">
+                        <div class="widget widget-info">
+                            <h4 class="widget-title">Contact Info</h4>
+                            <ul class="widget-body">
+                                <li>
+                                    <label>Phone:</label>
+                                    <a href="tel:#">json:data</a>
+                                </li>
+                                <li>
+                                    <label>Email:</label>
+                                        <a href="mailto:mail@riode.com">json:data</a>
+                                </li>
+                                <li>
+                                    <label>Address:</label>
+                                    <a href="#">Turkey, Istanbul</a>
+                                </li>
+                            </ul>
+                        </div>
+                        <!-- End Widget -->
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <div class="widget ml-lg-4">
+                            <h4 class="widget-title">Pages</h4>
+                            <ul class="widget-body">
+                                <li>
+                                    <a href="/Services/Index">Service</a>
+                                </li>
+                                <li>
+                                    <a href="/About/Index">About Us</a>
+                                </li>
+                                <li>
+                                    <a href="/Contact/Index">Contact Us</a>
+                                </li>
+                            </ul>
+                        </div>
+                        <!-- End Widget -->
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <div class="widget ml-lg-4">
+                            <h4 class="widget-title">THERAPYFM</h4>
+                            <p>
+                                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Neque modi numquam amet
+                                provident nisi ducimus dolorum deleniti aut non impedit ipsa laboriosam nulla et,
+                                nobis doloribus odio reprehenderit voluptate vel itaque id velit incidunt. Quae quod
+                                recusandae consequuntur delectus porro aliquid ullam harum libero dolores debitis
+                                ratione ipsam, sequi exercitationem.
+                            </p>
+                        </div>
+                        <!-- End Widget -->
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <div class="widget widget-instagram">
+                            <img src="~/images/logo.png" alt="Logo">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- End FooterMiddle -->
+            <div class="footer-bottom">
+                <div class="footer-left">
+                    <figure class="payment">
+                        <img src="~/images/payment.png" alt="payment" width="159" height="29" />
+                    </figure>
+                </div>
+                <div class="footer-right">
+                    <div class="social-links">
+                        <a href="#" class="social-link social-facebook fab fa-facebook-f"></a>
+                        <a href="#" class="social-link social-twitter fab fa-twitter"></a>
+                        <a href="#" class="social-link social-linkedin fab fa-linkedin-in"></a>
+                    </div>
+                </div>
+            </div>
+            <!-- End FooterBottom -->
+        </div>
+    </footer>
+    <!-- End Footer -->
+    </div>
+    <!-- Sticky Footer -->
+    <div class="sticky-footer sticky-content fix-bottom">
+        <a href="/Home/Index" class="sticky-link active">
+            <i class="d-icon-home"></i>
+            <span>Home</span>
+        </a>
+        <a href="/Services/Index" class="sticky-link">
+            <i class="d-icon-volume"></i>
+            <span>Services</span>
+        </a>
+    </div>
+    <!-- Scroll Top -->
+    <a id="scroll-top" href="#top" title="Top" role="button" class="scroll-top"><i class="d-icon-arrow-up"></i></a>
+
+    <!-- MobileMenu -->
+    <div class="mobile-menu-wrapper">
+        <div class="mobile-menu-overlay">
+        </div>
+        <!-- End of Overlay -->
+        <a class="mobile-menu-close" href="#"><i class="d-icon-times"></i></a>
+        <!-- End of CloseButton -->
+        <div class="mobile-menu-container scrollable">
+            <!-- End of Search Form -->
+            <ul class="mobile-menu mmenu-anim">
+                <li>
+                    <a href="/Home/Index">Home</a>
+                </li>
+                <li>
+                    <a>Hair</a>
+                    <ul>
+                        <li><a>FUE Hair transplantation</a></li>
+                        <li><a>SAPPHIRE FUE Hair transplantation</a></li>
+                        <li><a>DHI Hair transplantation</a></li>
+                        <li><a>UNBARBERED Hair transplantation</a></li>
+                        <li><a>Beard transplantation</a></li>
+                        <li><a>BROW transplantation</a></li>
+                        <li><a>PRP treatment</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <a>Dental</a>
+                    <ul>
+                        <li><a>Mouth and Jaw surgery</a></li>
+                        <li><a>Implants</a></li>
+                        <li><a>Prosthesis</a></li>
+                        <li><a>Pedodontics/Endodontics</a></li>
+                        <li><a>Teeth whitening</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <a>Aesthetic</a>
+                    <ul>
+                        <li><a>Rhinoplasty</a></li>
+                        <li><a>Botox | Filling</a></li>
+                        <li><a>Liposuction</a></li>
+                        <li><a>Breast augmentation | reduction</a></li>
+                        <li><a>Spot treatment</a></li>
+                        <li><a>Laser epilation</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="/Services/Index">Services</a>
+                </li>
+                <li>
+                    <a href="/About/Index">About Us</a>
+                </li>
+                <li>
+                    <a href="/Contact/Index">Contact Us</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <!-- Plugins JS File -->
+    <script src="~/lib/vendor/jquery/jquery.min.js"></script>
+    <script src="~/lib/vendor/elevatezoom/jquery.elevatezoom.min.js"></script>
+    <script src="~/lib/vendor/owl-carousel/owl.carousel.min.js"></script>
+    <!-- Main JS File -->
+    <script src="~/js/main.min.js"></script>
+    @await RenderSectionAsync("scripts", required: false)
+</body>
+</html>
+@*    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>*@

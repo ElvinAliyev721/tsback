@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TherapyFM_Web.props" />
+</Project>

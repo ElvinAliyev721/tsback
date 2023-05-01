@@ -1,0 +1,569 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TherapyFM_Web.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TherapyFM_Web.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\Admin\\css\\dashboard.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\dashboard.css"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\Admin\\dashboard.html",
+      "PackagePath": "staticwebassets\\Admin\\dashboard.html"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\Admin\\images\\20220801173002_42c6d215-63b8-46c3-a045-1c29caa7498e_Seyyadqaqa.jpeg",
+      "PackagePath": "staticwebassets\\Admin\\images\\20220801173002_42c6d215-63b8-46c3-a045-1c29caa7498e_Seyyadqaqa.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\Admin\\images\\20220801173154_a28f7c4b-59aa-41f4-b84e-35595fa81c76_Seyyadqaqa.jpeg",
+      "PackagePath": "staticwebassets\\Admin\\images\\20220801173154_a28f7c4b-59aa-41f4-b84e-35595fa81c76_Seyyadqaqa.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\Admin\\images\\Sociabble-header_Company-contact-us-3.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\Sociabble-header_Company-contact-us-3.png"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\Admin\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\css\\demo1.min.css",
+      "PackagePath": "staticwebassets\\css\\demo1.min.css"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\css\\errorstyle.css",
+      "PackagePath": "staticwebassets\\css\\errorstyle.css"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\css\\style.min.css",
+      "PackagePath": "staticwebassets\\css\\style.min.css"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\fonts\\riode115b.eot",
+      "PackagePath": "staticwebassets\\fonts\\riode115b.eot"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\fonts\\riode115b.html",
+      "PackagePath": "staticwebassets\\fonts\\riode115b.html"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\fonts\\riode115b.ttf",
+      "PackagePath": "staticwebassets\\fonts\\riode115b.ttf"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\fonts\\riode115b.woff",
+      "PackagePath": "staticwebassets\\fonts\\riode115b.woff"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\images\\categories\\agiz-ve-cene-cerrahisi.jpg",
+      "PackagePath": "staticwebassets\\images\\categories\\agiz-ve-cene-cerrahisi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\images\\categories\\burun-estetigi-1.jpg",
+      "PackagePath": "staticwebassets\\images\\categories\\burun-estetigi-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\images\\categories\\dhi-sac-ekimi.jpg",
+      "PackagePath": "staticwebassets\\images\\categories\\dhi-sac-ekimi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\images\\categories\\dis-beyazlatma.jpg",
+      "PackagePath": "staticwebassets\\images\\categories\\dis-beyazlatma.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\images\\categories\\dolgu.jpg",
+      "PackagePath": "staticwebassets\\images\\categories\\dolgu.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\images\\categories\\endodonti.jpg",
+      "PackagePath": "staticwebassets\\images\\categories\\endodonti.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\images\\categories\\fue-sac-ekimi.jpg",
+      "PackagePath": "staticwebassets\\images\\categories\\fue-sac-ekimi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\images\\categories\\implant.jpg",
+      "PackagePath": "staticwebassets\\images\\categories\\implant.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\images\\categories\\kas-ekimi.jpg",
+      "PackagePath": "staticwebassets\\images\\categories\\kas-ekimi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\images\\categories\\lazer-epilasyon.jpg",
+      "PackagePath": "staticwebassets\\images\\categories\\lazer-epilasyon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\images\\categories\\leke-tedavisi.jpg",
+      "PackagePath": "staticwebassets\\images\\categories\\leke-tedavisi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\images\\categories\\liposuction-2.jpg",
+      "PackagePath": "staticwebassets\\images\\categories\\liposuction-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\images\\categories\\meme-buyutme-1.jpg",
+      "PackagePath": "staticwebassets\\images\\categories\\meme-buyutme-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\images\\categories\\pedodonti.jpg",
+      "PackagePath": "staticwebassets\\images\\categories\\pedodonti.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\images\\categories\\protez.jpg",
+      "PackagePath": "staticwebassets\\images\\categories\\protez.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\images\\categories\\prp-tedavisi.jpg",
+      "PackagePath": "staticwebassets\\images\\categories\\prp-tedavisi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\images\\categories\\safir-fue-sac-ekimi.jpg",
+      "PackagePath": "staticwebassets\\images\\categories\\safir-fue-sac-ekimi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\images\\categories\\sakal-ekimi.jpg",
+      "PackagePath": "staticwebassets\\images\\categories\\sakal-ekimi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\images\\categories\\trassiz-sac-ekimi.jpg",
+      "PackagePath": "staticwebassets\\images\\categories\\trassiz-sac-ekimi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\images\\elements.png",
+      "PackagePath": "staticwebassets\\images\\elements.png"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\images\\icons\\favicon.png",
+      "PackagePath": "staticwebassets\\images\\icons\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\images\\menu\\aethtetic.jpg",
+      "PackagePath": "staticwebassets\\images\\menu\\aethtetic.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\images\\menu\\dental.jpg",
+      "PackagePath": "staticwebassets\\images\\menu\\dental.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\images\\menu\\hair.jpg",
+      "PackagePath": "staticwebassets\\images\\menu\\hair.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\images\\page-header\\contact-us.jpg",
+      "PackagePath": "staticwebassets\\images\\page-header\\contact-us.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\images\\payment.png",
+      "PackagePath": "staticwebassets\\images\\payment.png"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\images\\slides\\slide1.jpg",
+      "PackagePath": "staticwebassets\\images\\slides\\slide1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\images\\slides\\slide2.jpg",
+      "PackagePath": "staticwebassets\\images\\slides\\slide2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\images\\slides\\slide3.jpg",
+      "PackagePath": "staticwebassets\\images\\slides\\slide3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\images\\subpages\\about-us-banner.jpg",
+      "PackagePath": "staticwebassets\\images\\subpages\\about-us-banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\images\\subpages\\about-us-img-1.jpg",
+      "PackagePath": "staticwebassets\\images\\subpages\\about-us-img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\images\\subpages\\about-us-img-2.jpg",
+      "PackagePath": "staticwebassets\\images\\subpages\\about-us-img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\images\\subpages\\error-bg.png",
+      "PackagePath": "staticwebassets\\images\\subpages\\error-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\images\\subpages\\team1.jpg",
+      "PackagePath": "staticwebassets\\images\\subpages\\team1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\images\\subpages\\team2.jpg",
+      "PackagePath": "staticwebassets\\images\\subpages\\team2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\images\\subpages\\team3.jpg",
+      "PackagePath": "staticwebassets\\images\\subpages\\team3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\images\\subpages\\team4.jpg",
+      "PackagePath": "staticwebassets\\images\\subpages\\team4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\js\\main.min.js",
+      "PackagePath": "staticwebassets\\js\\main.min.js"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\vendor\\animate\\animate.min.css",
+      "PackagePath": "staticwebassets\\lib\\vendor\\animate\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\vendor\\elevatezoom\\jquery.elevatezoom.min.js",
+      "PackagePath": "staticwebassets\\lib\\vendor\\elevatezoom\\jquery.elevatezoom.min.js"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\vendor\\fontawesome-free\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\lib\\vendor\\fontawesome-free\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\lib\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\lib\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\lib\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\lib\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\lib\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\vendor\\fontawesome-free\\webfonts\\fa-brands-400d41d.eot",
+      "PackagePath": "staticwebassets\\lib\\vendor\\fontawesome-free\\webfonts\\fa-brands-400d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\lib\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\lib\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\lib\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\lib\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\lib\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\vendor\\fontawesome-free\\webfonts\\fa-regular-400d41d.eot",
+      "PackagePath": "staticwebassets\\lib\\vendor\\fontawesome-free\\webfonts\\fa-regular-400d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\lib\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\lib\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\lib\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\lib\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\lib\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\vendor\\fontawesome-free\\webfonts\\fa-solid-900d41d.eot",
+      "PackagePath": "staticwebassets\\lib\\vendor\\fontawesome-free\\webfonts\\fa-solid-900d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\vendor\\imagesloaded\\imagesloaded.pkgd.min.js",
+      "PackagePath": "staticwebassets\\lib\\vendor\\imagesloaded\\imagesloaded.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\vendor\\jquery.count-to\\jquery.count-to.min.js",
+      "PackagePath": "staticwebassets\\lib\\vendor\\jquery.count-to\\jquery.count-to.min.js"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\vendor\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\vendor\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\vendor\\owl-carousel\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\lib\\vendor\\owl-carousel\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\vendor\\owl-carousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\lib\\vendor\\owl-carousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\vendor\\owl-carousel\\owl.video.play.html",
+      "PackagePath": "staticwebassets\\lib\\vendor\\owl-carousel\\owl.video.play.html"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.TherapyFM_Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.TherapyFM_Web.props",
+      "PackagePath": "build\\TherapyFM_Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.TherapyFM_Web.props",
+      "PackagePath": "buildMultiTargeting\\TherapyFM_Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.TherapyFM_Web.props",
+      "PackagePath": "buildTransitive\\TherapyFM_Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

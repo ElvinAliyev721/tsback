@@ -1,0 +1,36 @@
+﻿@model User
+<div class="pt-3">
+    <div class="table-bg">
+        <div class="card-header-custom">
+            <h3>İstidəçilər</h3>
+
+        </div>
+        <div class="card-body mt-2">
+            <div class="table-responsive">
+                <table class="table-custom" style="width: 100%;">
+                    <thead class="thead-custom">
+                        <tr>
+                            <td>No</td>
+                            <td>Email</td>
+                            <td>Role</td>
+                            <td>Whatsapp</td>
+                            @*<td>Əməliyyatlar</td>*@
+                        </tr>
+                    </thead>
+                    <tbody class="tbody-custom">
+                            <tr>
+                                <td><i class='bx bxs-user'></i> @Model.id</td>
+                                <td><i class='bx bxs-user'></i> @Model.email</td>
+                                <td><i class='bx bxs-user'></i> Admin</td>
+                                <td><i class='bx bxs-user'></i> @Model.whatsapp</td>
+                                
+                                <td class="text-center justify-content-evenly">
+                                    <a href="/Admin/Dashboard/UpdateContact" class="btn btn-dark">Change</a>
+                                </td>
+                            </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
