@@ -1,10 +1,15 @@
-﻿@using Microsoft.AspNetCore.Mvc.Localization
+﻿@using System.IO
+@using System.Text.Json
+@using Microsoft.AspNetCore.Mvc.Localization
 @inject IViewLocalizer Localizer
 @model EmailViewModel
-
+@inject IViewLocalizer Localizer;
 @{
     ViewData["Title"] = "Index";
     Layout = "~/Views/Shared/_Layout.cshtml";
+    var path = System.IO.Path.Combine(Directory.GetCurrentDirectory(), "", "data.json");
+    var json = File.ReadAllText(path);
+    var data = JsonSerializer.Deserialize<User>(json);
 }
 
 @section styles {
@@ -39,14 +44,12 @@
 
                                 <h4 class="mb-2 text-capitalize">@Localizer["Left_header2"]</h4>
                                 <p>
-                                    <a href="tel:#">json:data</a><br>
-                                    <a href="tel:#">json:data</a>
+                                    <a href="tel:#">@data.whatsapp</a><br>
                                 </p>
 
                                 <h4 class="mb-2 text-capitalize">@Localizer["Left_header3"]</h4>
                                 <p class="mb-4">
-                                    <a href="#">json:data</a><br>
-                                    <a href="#">json:data</a><br>
+                                    <a href="#">@data.whatsapp</a><br>
                                 </p>
                             </div>
                         </div>
