@@ -1,6 +1,8 @@
 ﻿using Microsoft.AspNetCore.Localization;
 using Microsoft.AspNetCore.Mvc;
+using System;
 using System.Diagnostics;
+using System.Text.Json;
 using TherapyFM_Web.Models;
 
 namespace TherapyFM_Web.Controllers
@@ -8,10 +10,12 @@ namespace TherapyFM_Web.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
-
-        public HomeController(ILogger<HomeController> logger)
+        private readonly IWebHostEnvironment _environment;
+        public HomeController(ILogger<HomeController> logger, IWebHostEnvironment environment)
         {
             _logger = logger;
+            _environment = environment;
+            
         }
 
         public IActionResult Index()

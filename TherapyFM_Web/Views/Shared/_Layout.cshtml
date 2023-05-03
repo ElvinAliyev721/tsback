@@ -1,9 +1,20 @@
-﻿@using Microsoft.AspNetCore.Mvc.Localization
+﻿@using System.IO
+@using System.Text.Json
+
+@using Microsoft.AspNetCore.Mvc.Localization
 @using System.Globalization;
-@inject IViewLocalizer Localizer
+@inject IViewLocalizer Localizer;
+
+
 
 @{
     string currentController = ViewContext.RouteData.Values["controller"].ToString();
+
+    var path = System.IO.Path.Combine(Directory.GetCurrentDirectory(), "", "data.json");
+    var json = File.ReadAllText(path);
+    var data = JsonSerializer.Deserialize<User>(json);
+
+
 }
 
 <!DOCTYPE html>
@@ -185,7 +196,7 @@
                             </div>
                             <div class="icon-box-content d-lg-show">
                                 <h4 class="icon-box-title">Call Us Now:</h4>
-                                <p>json:data</p>
+                                <p>@data.whatsapp</p>
                             </div>
                         </a>
                     </div>
@@ -220,11 +231,11 @@
                             <ul class="widget-body">
                                 <li>
                                     <label>Phone:</label>
-                                    <a href="tel:#">json:data</a>
+                                    <a href="tel:#">@data.whatsapp</a>
                                 </li>
                                 <li>
                                     <label>Email:</label>
-                                        <a href="#">json:data</a>
+                                        <a href="#">@data.email</a>
                                 </li>
                                 <li>
                                     <label>Address:</label>
