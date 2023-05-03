@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Localization;
+using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 using TherapyFM_Web.Models;
 
@@ -22,6 +23,23 @@ namespace TherapyFM_Web.Controllers
         public IActionResult Error()
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+        }
+
+        public IActionResult SetCulture(string culture, string returnUrl)
+        {
+            var supportedCultures = new[] { "en-US", "az-Latn-AZ", "tr-TR" };
+
+            if (!supportedCultures.Contains(culture))
+            {
+                culture = "en-US";
+            }
+
+            HttpContext.Response.Cookies.Append(
+                CookieRequestCultureProvider.DefaultCookieName,
+                CookieRequestCultureProvider.MakeCookieValue(new RequestCulture(culture)),
+                new CookieOptions { Expires = DateTimeOffset.UtcNow.AddYears(1) });
+
+            return LocalRedirect(returnUrl);
         }
     }
 }

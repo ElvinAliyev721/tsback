@@ -1,4 +1,12 @@
-﻿<!DOCTYPE html>
+﻿@using Microsoft.AspNetCore.Mvc.Localization
+@using System.Globalization;
+@inject IViewLocalizer Localizer
+
+@{
+    string currentController = ViewContext.RouteData.Values["controller"].ToString();
+}
+
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -13,7 +21,7 @@
 
     <!-- Plugins CSS File -->
     <link rel="stylesheet" type="text/css" href="~/lib/vendor/owl-carousel/owl.carousel.min.css">
-
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
     <!-- Main CSS File -->
     @await RenderSectionAsync("styles", required: true)
 </head>
@@ -25,27 +33,27 @@
             <div class="header-top">
                 <div class="container">
                     <div class="header-left">
-                        <p class="welcome-msg">Address: </p>
+                        <a class="welcome-msg d-flex justify-content-center align-items-center" href="https://wa.me/+994708411308"><i class='bx bxl-whatsapp-square bx-lg'></i> Whatsapp</a>
                     </div>
                     <div class="header-right">
                         <!-- End DropDown Menu -->
                         <div class="dropdown ml-5">
-                            <a href="#language">ENG</a>
+                            <a href="#language">@CultureInfo.CurrentUICulture.DisplayName</a>
                             <ul class="dropdown-box">
                                 <li>
-                                    <a href="#USD">ENG</a>
+                                    <a href="@Url.Action("Index", currentController, new { culture = "en-US", returnUrl = Context.Request.Path })">ENG</a>
                                 </li>
                                 <li>
-                                    <a href="#RUS">RUS</a>
+                                    <a href="@Url.Action("Index", currentController, new { culture = "az-Latn-AZ", returnUrl = Context.Request.Path })">AZE</a>
                                 </li>
                                 <li>
-                                    <a href="#AZE">AZE</a>
+                                    <a href="@Url.Action("Index", currentController, new { culture = "tr-TR", returnUrl = Context.Request.Path })">TUR</a>
                                 </li>
                             </ul>
                         </div>
                         <!-- End DropDown Menu -->
                         <span class="divider"></span>
-                        <a href="/Contact/Index" class="contact d-lg-show"><i class="d-icon-map"></i>Contact</a>
+                        <a href="/Contact/Index/?ui-culture=@System.Threading.Thread.CurrentThread.CurrentCulture.ToString()" class="contact d-lg-show"><i class="d-icon-map"></i>Contact</a>
                         <!-- End of Login -->
                     </div>
                 </div>
@@ -57,28 +65,29 @@
                         <a href="#" class="mobile-menu-toggle">
                             <i class="d-icon-bars2"></i>
                         </a>
-                        <a href="/Home/Index" class="logo">
+                        <a href="/Home/Index/?ui-culture=@System.Threading.Thread.CurrentThread.CurrentCulture.ToString()" class="logo">
                             <img src="~/images/logo.png" alt="logo" width="233" height="84" />
                         </a>
                         <nav class="main-nav">
                             <ul class="menu">
-                                <li class="active">
-                                    <a href="/Home/Index" class="nav-title">Home</a>
+                                @*<li class="active">*@
+                                <li>
+                                    <a href="/Home/Index/?ui-culture=@System.Threading.Thread.CurrentThread.CurrentCulture.ToString()" class="nav-title">@Localizer["Home"]</a>
                                 </li>
                                 <li>
-                                    <a class="nav-title">Hair</a>
+                                    <a class="nav-title">@Localizer["Hair"]</a>
                                     <div class="megamenu">
                                         <div class="row">
                                             <div class="col-6 col-sm-4 col-md-3 col-lg-4">
-                                                <h4 class="menu-title">Hair Services</h4>
+                                                <h4 class="menu-title">@Localizer["Hair_Ser"]</h4>
                                                 <ul>
-                                                    <li><a>FUE Hair transplantation</a></li>
-                                                    <li><a>SAPPHIRE FUE Hair transplantation</a></li>
-                                                    <li><a>DHI Hair transplantation</a></li>
-                                                    <li><a>UNBARBERED Hair transplantation</a></li>
-                                                    <li><a>Beard transplantation</a></li>
-                                                    <li><a>BROW transplantation</a></li>
-                                                    <li><a>PRP treatment</a></li>
+                                                    <li><a>@Localizer["FUE_H"]</a></li>
+                                                    <li><a>@Localizer["S_FUE"]</a></li>
+                                                    <li><a>@Localizer["DHI"]</a></li>
+                                                    <li><a>@Localizer["UNBR"]</a></li>
+                                                    <li><a>@Localizer["Beard"]</a></li>
+                                                    <li><a>@Localizer["Brow"]</a></li>
+                                                    <li><a>@Localizer["PRP"]</a></li>
                                                 </ul>
                                             </div>
                                             <div class="col-6 col-sm-4 col-md-3 col-lg-4 menu-banner menu-banner1 banner banner-fixed">
@@ -100,17 +109,17 @@
                                     </div>
                                 </li>
                                 <li>
-                                    <a class="nav-title">Dental</a>
+                                    <a class="nav-title">@Localizer["Dental"]</a>
                                     <div class="megamenu">
                                         <div class="row">
                                             <div class="col-6 col-sm-4 col-md-3 col-lg-4">
-                                                <h4 class="menu-title">Dental Services</h4>
+                                                <h4 class="menu-title">@Localizer["Dental_Ser"]</h4>
                                                 <ul>
-                                                    <li><a>Mouth and Jaw surgery</a></li>
-                                                    <li><a>Implants</a></li>
-                                                    <li><a>Prosthesis</a></li>
-                                                    <li><a>Pedodontics/Endodontics</a></li>
-                                                    <li><a>Teeth whitening</a></li>
+                                                    <li><a>@Localizer["M_J_S"]</a></li>
+                                                    <li><a>@Localizer["Implants"]</a></li>
+                                                    <li><a>@Localizer["Prosthesis"]</a></li>
+                                                    <li><a>@Localizer["P/E"]</a></li>
+                                                    <li><a>@Localizer["Teeth_White"]</a></li>
                                                 </ul>
                                             </div>
                                             <div class="col-6 col-sm-4 col-md-3 col-lg-4 menu-banner menu-banner2 banner banner-fixed">
@@ -128,18 +137,18 @@
                                     </div>
                                 </li>
                                 <li>
-                                    <a class="nav-title">Aesthetic</a>
+                                    <a class="nav-title">@Localizer["Aesthetic"]</a>
                                     <div class="megamenu">
                                         <div class="row">
                                             <div class="col-6 col-sm-4 col-md-3 col-lg-4">
-                                                <h4 class="menu-title">Aesthetic Services</h4>
+                                                <h4 class="menu-title">@Localizer["Aesthetic_Ser"]</h4>
                                                 <ul>
-                                                    <li><a>Rhinoplasty</a></li>
-                                                    <li><a>Botox | Filling</a></li>
+                                                    <li><a>@Localizer["Rhinoplasty"]</a></li>
+                                                    <li><a>@Localizer["B/F"]</a></li>
                                                     <li><a>Liposuction</a></li>
-                                                    <li><a>Breast augmentation | reduction</a></li>
-                                                    <li><a>Spot treatment</a></li>
-                                                    <li><a>Laser epilation</a></li>
+                                                    <li><a>@Localizer["BA/R"]</a></li>
+                                                    <li><a>@Localizer["Spot_treatment"]</a></li>
+                                                    <li><a>@Localizer["Lazer"]</a></li>
                                                 </ul>
                                             </div>
                                             <div class="col-6 col-sm-4 col-md-3 col-lg-4 menu-banner menu-banner2 banner banner-fixed">
@@ -157,13 +166,13 @@
                                     </div>
                                 </li>
                                 <li>
-                                    <a href="/Services/Index" class="nav-title">Services</a>
+                                    <a href="/Services/Index/?ui-culture=@System.Threading.Thread.CurrentThread.CurrentCulture.ToString()" class="nav-title">@Localizer["Services"]</a>
                                 </li>
                                 <li>
-                                    <a href="/About/Index" class="nav-title">About Us</a>
+                                    <a href="/About/Index/?ui-culture=@System.Threading.Thread.CurrentThread.CurrentCulture.ToString()" class="nav-title">@Localizer["About"]</a>
                                 </li>
                                 <li>
-                                    <a href="/Contact/Index" class="nav-title">Contact Us</a>
+                                    <a href="/Contact/Index/?ui-culture=@System.Threading.Thread.CurrentThread.CurrentCulture.ToString()" class="nav-title">@Localizer["Contact"]</a>
                                 </li>
                             </ul>
                         </nav>
@@ -190,21 +199,14 @@
             <div class="footer-top">
                 <div class="row align-items-center">
                     <div class="col-lg-3">
-                        <a href="index.html" class="logo-footer">
+                            <a href="/Home/Index/?ui-culture=@System.Threading.Thread.CurrentThread.CurrentCulture.ToString()" class="logo-footer">
                             <img src="~/images/logo.png" alt="logo-footer" width="254" height="83" />
                         </a>
                         <!-- End FooterLogo -->
                     </div>
                     <div class="col-lg-9">
                         <p>
-                            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur laudantium
-                            deleniti asperiores cumque neque corrupti magni amet aut perspiciatis ex sunt facilis
-                            itaque accusantium vitae dicta dolorum maxime quas, delectus incidunt ipsum atque
-                            debitis rerum ad. Facere, tempore deserunt. Minus eius maxime incidunt repellat
-                            distinctio harum exercitationem ipsam unde dolores expedita perferendis fugit dolorem
-                            quas at enim sit doloribus dolor deserunt, aut placeat, laudantium, ex quo. Recusandae,
-                            omnis ducimus nobis inventore, expedita labore perspiciatis aliquam natus sint
-                            dignissimos quibusdam voluptatum!
+                                @Localizer["About_footer_text_1"]
                         </p>
                     </div>
                 </div>
@@ -214,7 +216,7 @@
                 <div class="row">
                     <div class="col-lg-3 col-md-6">
                         <div class="widget widget-info">
-                            <h4 class="widget-title">Contact Info</h4>
+                                <h4 class="widget-title">@Localizer["Contact_info"]</h4>
                             <ul class="widget-body">
                                 <li>
                                     <label>Phone:</label>
@@ -222,7 +224,7 @@
                                 </li>
                                 <li>
                                     <label>Email:</label>
-                                        <a href="mailto:mail@riode.com">json:data</a>
+                                        <a href="#">json:data</a>
                                 </li>
                                 <li>
                                     <label>Address:</label>
@@ -237,13 +239,13 @@
                             <h4 class="widget-title">Pages</h4>
                             <ul class="widget-body">
                                 <li>
-                                    <a href="/Services/Index">Service</a>
+                                        <a href="/Services/Index/?ui-culture=@System.Threading.Thread.CurrentThread.CurrentCulture.ToString()">@Localizer["Services"]</a>
                                 </li>
                                 <li>
-                                    <a href="/About/Index">About Us</a>
+                                        <a href="/About/Index/?ui-culture=@System.Threading.Thread.CurrentThread.CurrentCulture.ToString()">@Localizer["About"]</a>
                                 </li>
                                 <li>
-                                    <a href="/Contact/Index">Contact Us</a>
+                                        <a href="/Contact/Index/?ui-culture=@System.Threading.Thread.CurrentThread.CurrentCulture.ToString()">@Localizer["Contact"]</a>
                                 </li>
                             </ul>
                         </div>
@@ -253,11 +255,7 @@
                         <div class="widget ml-lg-4">
                             <h4 class="widget-title">THERAPYFM</h4>
                             <p>
-                                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Neque modi numquam amet
-                                provident nisi ducimus dolorum deleniti aut non impedit ipsa laboriosam nulla et,
-                                nobis doloribus odio reprehenderit voluptate vel itaque id velit incidunt. Quae quod
-                                recusandae consequuntur delectus porro aliquid ullam harum libero dolores debitis
-                                ratione ipsam, sequi exercitationem.
+                                    @Localizer["About_footer_text_2"]
                             </p>
                         </div>
                         <!-- End Widget -->
@@ -291,11 +289,11 @@
     </div>
     <!-- Sticky Footer -->
     <div class="sticky-footer sticky-content fix-bottom">
-        <a href="/Home/Index" class="sticky-link active">
+        <a href="/Home/Index/?ui-culture=@System.Threading.Thread.CurrentThread.CurrentCulture.ToString()" class="sticky-link active">
             <i class="d-icon-home"></i>
             <span>Home</span>
         </a>
-        <a href="/Services/Index" class="sticky-link">
+        <a href="/Services/Index/?ui-culture=@System.Threading.Thread.CurrentThread.CurrentCulture.ToString()" class="sticky-link">
             <i class="d-icon-volume"></i>
             <span>Services</span>
         </a>
@@ -314,49 +312,49 @@
             <!-- End of Search Form -->
             <ul class="mobile-menu mmenu-anim">
                 <li>
-                    <a href="/Home/Index">Home</a>
+                    <a href="/Home/Index/?ui-culture=@System.Threading.Thread.CurrentThread.CurrentCulture.ToString()">@Localizer["Home"]</a>
                 </li>
                 <li>
-                    <a>Hair</a>
+                    <a>@Localizer["Hair"]</a>
                     <ul>
-                        <li><a>FUE Hair transplantation</a></li>
-                        <li><a>SAPPHIRE FUE Hair transplantation</a></li>
-                        <li><a>DHI Hair transplantation</a></li>
-                        <li><a>UNBARBERED Hair transplantation</a></li>
-                        <li><a>Beard transplantation</a></li>
-                        <li><a>BROW transplantation</a></li>
-                        <li><a>PRP treatment</a></li>
+                        <li><a>@Localizer["FUE_H"]</a></li>
+                        <li><a>@Localizer["S_FUE"]</a></li>
+                        <li><a>@Localizer["DHI"]</a></li>
+                        <li><a>@Localizer["UNBR"]</a></li>
+                        <li><a>@Localizer["Beard"]</a></li>
+                        <li><a>@Localizer["Brow"]</a></li>
+                        <li><a>@Localizer["PRP"]</a></li>
                     </ul>
                 </li>
                 <li>
-                    <a>Dental</a>
+                    <a>@Localizer["Dental"]</a>
                     <ul>
-                        <li><a>Mouth and Jaw surgery</a></li>
-                        <li><a>Implants</a></li>
-                        <li><a>Prosthesis</a></li>
-                        <li><a>Pedodontics/Endodontics</a></li>
-                        <li><a>Teeth whitening</a></li>
+                        <li><a>@Localizer["M_J_S"]</a></li>
+                        <li><a>@Localizer["Implants"]</a></li>
+                        <li><a>@Localizer["Prosthesis"]</a></li>
+                        <li><a>@Localizer["P/E"]</a></li>
+                        <li><a>@Localizer["Teeth_White"]</a></li>
                     </ul>
                 </li>
                 <li>
-                    <a>Aesthetic</a>
+                    <a>@Localizer["Aesthetic"]</a>
                     <ul>
-                        <li><a>Rhinoplasty</a></li>
-                        <li><a>Botox | Filling</a></li>
+                        <li><a>@Localizer["Rhinoplasty"]</a></li>
+                        <li><a>@Localizer["B/F"]</a></li>
                         <li><a>Liposuction</a></li>
-                        <li><a>Breast augmentation | reduction</a></li>
-                        <li><a>Spot treatment</a></li>
-                        <li><a>Laser epilation</a></li>
+                        <li><a>@Localizer["BA/R"]</a></li>
+                        <li><a>@Localizer["Spot_treatment"]</a></li>
+                        <li><a>@Localizer["Lazer"]</a></li>
                     </ul>
                 </li>
                 <li>
-                    <a href="/Services/Index">Services</a>
+                    <a href="/Services/Index/?ui-culture=@System.Threading.Thread.CurrentThread.CurrentCulture.ToString()">@Localizer["Services"]</a>
                 </li>
                 <li>
-                    <a href="/About/Index">About Us</a>
+                    <a href="/About/Index/?ui-culture=@System.Threading.Thread.CurrentThread.CurrentCulture.ToString()">@Localizer["About"]</a>
                 </li>
                 <li>
-                    <a href="/Contact/Index">Contact Us</a>
+                    <a href="/Contact/Index/?ui-culture=@System.Threading.Thread.CurrentThread.CurrentCulture.ToString()">@Localizer["Contact"]</a>
                 </li>
             </ul>
         </div>

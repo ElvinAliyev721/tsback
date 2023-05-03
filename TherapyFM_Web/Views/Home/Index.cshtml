@@ -1,4 +1,7 @@
-﻿@{
+﻿@using Microsoft.AspNetCore.Mvc.Localization
+@inject IViewLocalizer Localizer
+
+@{
     ViewData["Title"] = "Home Page";
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
@@ -28,12 +31,8 @@
                         <div class="banner-content y-50">
                             <h2 class="banner-title font-weight-bold text-white lh-1 ls-md slide-animate"
                                 data-animation-options="{'name': 'fadeInUpShorter', 'duration': '1.2s', 'delay': '1s'}">
-                                Care When
+                                @Localizer["Slider1"]
                             </h2>
-                            <h3 class="font-weight-bold lh-1 ls-l text-white slide-animate"
-                                data-animation-options="{'name': 'fadeInUpShorter', 'duration': '1.2s', 'delay': '1s'}">
-                                You Need It
-                            </h3>
                         </div>
                     </div>
                 </div>
@@ -47,8 +46,7 @@
                             <h4 class="banner-subtitle ls-s mb-1 slide-animate text-white"
                                 data-animation-options="{'name': 'fadeInUp', 'duration': '.7s'}">
                                 <strong class="font-weight-semi-bold ls-m">
-                                    We all have different healthcare needs.
-                                    Handle them your way with us
+                                    @Localizer["Slider2"]
                                 </strong>
                             </h4>
                         </div>
@@ -61,16 +59,9 @@
                     </figure>
                     <div class="container">
                         <div class="banner-content x-50 y-50 text-center">
-                            <h2 class="banner-title mb-3 text-white font-weight-bold text-uppercase ls-m slide-animate"
-                                data-animation-options="{'name': 'fadeInUp', 'duration': '.7s', 'delay': '.5s'}">
-                                Care that's built around you
+                            <h2 class="banner-title mb-3 text-white font-weight-bold text-uppercase ls-m slide-animate fadeInUp show-content" data-animation-options="{'name': 'fadeInUp', 'duration': '.7s', 'delay': '.5s'}" style="animation-duration: 0.7s; animation-delay: 0.5s;">
+                                @Localizer["Slider3"]
                             </h2>
-                            <p class="slide-animate mb-7 text-white ls-s font-primary "
-                               data-animation-options="{'name': 'fadeInUp', 'duration': '1s', 'delay': '.8s'}">
-                                When your care gets complicated, you want a team of experts with a complete view
-                                of
-                                <br>your health so they can create a plan to help you get Better.
-                            </p>
                         </div>
                     </div>
                 </div>
@@ -157,7 +148,7 @@
                             </a>
                             <div class="category-content">
                                 <h4 class="category-name font-weight-bold ls-l">
-                                    <a>FUE Hair transplantation</a>
+                                    <a>@Localizer["FUE_H"]</a>
                                 </h4>
                             </div>
                         </div>
@@ -172,7 +163,7 @@
                             </a>
                             <div class="category-content">
                                 <h4 class="category-name font-weight-bold ls-l">
-                                    <a>SAPPHIRE FUE Hair transplantation</a>
+                                    <a>@Localizer["S_FUE"]</a>
                                 </h4>
                             </div>
                         </div>
@@ -187,7 +178,7 @@
                             </a>
                             <div class="category-content">
                                 <h4 class="category-name font-weight-bold ls-l">
-                                    <a>DHI Hair transplantation</a>
+                                    <a>@Localizer["DHI"]</a>
                                 </h4>
                             </div>
                         </div>
@@ -204,7 +195,7 @@
                             </a>
                             <div class="category-content">
                                 <h4 class="category-name font-weight-bold ls-l">
-                                    <a>UNBARBERED Hair transplantation</a>
+                                    <a>@Localizer["UNBR"]</a>
                                 </h4>
                             </div>
                         </div>
@@ -219,7 +210,7 @@
                             </a>
                             <div class="category-content">
                                 <h4 class="category-name font-weight-bold ls-l">
-                                    <a>Beard transplantation</a>
+                                    <a>@Localizer["Beard"]</a>
                                 </h4>
                             </div>
                         </div>
@@ -234,7 +225,7 @@
                             </a>
                             <div class="category-content">
                                 <h4 class="category-name font-weight-bold ls-l">
-                                    <a>BROW transplantation</a>
+                                    <a>@Localizer["Brow"]</a>
                                 </h4>
                             </div>
                         </div>
@@ -249,14 +240,14 @@
                             </a>
                             <div class="category-content">
                                 <h4 class="category-name font-weight-bold ls-l">
-                                    <a>PRP treatment</a>
+                                    <a>@Localizer["PRP"]</a>
                                 </h4>
                             </div>
                         </div>
                     </div>
                     <div class="col-xs-6 col-lg-4 mb-4" style="height:280px; width:280px; display: flex; align-items: center; justify-content: center;">
-                        <a href="/Services/Index" class="btn btn-primary btn-rounded btn-md ml-2">
-                            See All<i class="d-icon-arrow-right"></i>
+                        <a href="/Services/Index/?ui-culture=@System.Threading.Thread.CurrentThread.CurrentCulture.ToString()" class="btn btn-primary btn-rounded btn-md ml-2">
+                            @Localizer["See_all"]<i class="d-icon-arrow-right"></i>
                         </a>
                     </div>
                 </div>

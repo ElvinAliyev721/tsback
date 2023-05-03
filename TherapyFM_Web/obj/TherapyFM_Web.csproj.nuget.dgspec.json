@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\TherapyFM_Web.csproj": {}
+    "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\TherapyFM_Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\TherapyFM_Web.csproj": {
+    "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\TherapyFM_Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\TherapyFM_Web.csproj",
+        "projectUniqueName": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\TherapyFM_Web.csproj",
         "projectName": "TherapyFM_Web",
-        "projectPath": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\TherapyFM_Web.csproj",
+        "projectPath": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\TherapyFM_Web.csproj",
         "packagesPath": "C:\\Users\\aliye\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\obj\\",
+        "outputPath": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -48,25 +48,21 @@
               "target": "Package",
               "version": "[4.0.0, )"
             },
-            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+            "Microsoft.AspNetCore.Localization": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Localization": {
               "target": "Package",
               "version": "[6.0.16, )"
             },
-            "Microsoft.Extensions.Configuration.Json": {
+            "Microsoft.Extensions.Localization.Abstractions": {
               "target": "Package",
-              "version": "[6.0.0, )"
+              "version": "[6.0.16, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[6.0.13, )"
-            },
-            "System.IO": {
-              "target": "Package",
-              "version": "[4.3.0, )"
-            },
-            "System.IO.FileSystem": {
-              "target": "Package",
-              "version": "[4.3.0, )"
             }
           },
           "imports": [

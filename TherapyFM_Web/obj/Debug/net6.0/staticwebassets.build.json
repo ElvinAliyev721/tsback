@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ZCJqteow3ka/pdVyAiWy7gK14CzTm9WxFxYURvA2Su0=",
+  "Hash": "cQTHg63O8SgxSIv8QB/CuvmpZIAL25y0uRxTWmbnn3g=",
   "Source": "TherapyFM_Web",
   "BasePath": "_content/TherapyFM_Web",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "TherapyFM_Web\\wwwroot",
       "Source": "TherapyFM_Web",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\obj\\Debug\\net6.0\\scopedcss\\bundle\\TherapyFM_Web.styles.css",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\obj\\Debug\\net6.0\\scopedcss\\bundle\\TherapyFM_Web.styles.css",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "TherapyFM_Web.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\obj\\Debug\\net6.0\\scopedcss\\bundle\\TherapyFM_Web.styles.css"
+      "OriginalItemSpec": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\obj\\Debug\\net6.0\\scopedcss\\bundle\\TherapyFM_Web.styles.css"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TherapyFM_Web.bundle.scp.css",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TherapyFM_Web.bundle.scp.css",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "TherapyFM_Web.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TherapyFM_Web.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TherapyFM_Web.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\Admin\\css\\dashboard.css",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\Admin\\css\\dashboard.css",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "Admin/css/dashboard.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\Admin\\css\\dashboard.css"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\Admin\\dashboard.html",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\Admin\\dashboard.html",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "Admin/dashboard.html",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\Admin\\dashboard.html"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\Admin\\images\\20220801173002_42c6d215-63b8-46c3-a045-1c29caa7498e_Seyyadqaqa.jpeg",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\Admin\\images\\20220801173002_42c6d215-63b8-46c3-a045-1c29caa7498e_Seyyadqaqa.jpeg",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "Admin/images/20220801173002_42c6d215-63b8-46c3-a045-1c29caa7498e_Seyyadqaqa.jpeg",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\Admin\\images\\20220801173002_42c6d215-63b8-46c3-a045-1c29caa7498e_Seyyadqaqa.jpeg"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\Admin\\images\\20220801173154_a28f7c4b-59aa-41f4-b84e-35595fa81c76_Seyyadqaqa.jpeg",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\Admin\\images\\20220801173154_a28f7c4b-59aa-41f4-b84e-35595fa81c76_Seyyadqaqa.jpeg",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "Admin/images/20220801173154_a28f7c4b-59aa-41f4-b84e-35595fa81c76_Seyyadqaqa.jpeg",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\Admin\\images\\20220801173154_a28f7c4b-59aa-41f4-b84e-35595fa81c76_Seyyadqaqa.jpeg"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\Admin\\images\\Sociabble-header_Company-contact-us-3.png",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\Admin\\images\\Sociabble-header_Company-contact-us-3.png",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "Admin/images/Sociabble-header_Company-contact-us-3.png",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\Admin\\images\\Sociabble-header_Company-contact-us-3.png"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\Admin\\js\\dashboard.js",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\Admin\\js\\dashboard.js",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "Admin/js/dashboard.js",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\Admin\\js\\dashboard.js"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\css\\demo1.min.css",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\css\\demo1.min.css",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "css/demo1.min.css",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\demo1.min.css"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\css\\errorstyle.css",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\css\\errorstyle.css",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "css/errorstyle.css",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\errorstyle.css"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\css\\style.min.css",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\css\\style.min.css",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "css/style.min.css",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.min.css"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\fonts\\riode115b.eot",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\fonts\\riode115b.eot",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "fonts/riode115b.eot",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\riode115b.eot"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\fonts\\riode115b.html",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\fonts\\riode115b.html",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "fonts/riode115b.html",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\riode115b.html"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\fonts\\riode115b.ttf",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\fonts\\riode115b.ttf",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "fonts/riode115b.ttf",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\riode115b.ttf"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\fonts\\riode115b.woff",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\fonts\\riode115b.woff",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "fonts/riode115b.woff",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\riode115b.woff"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\images\\categories\\agiz-ve-cene-cerrahisi.jpg",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\images\\categories\\agiz-ve-cene-cerrahisi.jpg",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "images/categories/agiz-ve-cene-cerrahisi.jpg",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\images\\categories\\agiz-ve-cene-cerrahisi.jpg"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\images\\categories\\burun-estetigi-1.jpg",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\images\\categories\\burun-estetigi-1.jpg",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "images/categories/burun-estetigi-1.jpg",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\images\\categories\\burun-estetigi-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\images\\categories\\dhi-sac-ekimi.jpg",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\images\\categories\\dhi-sac-ekimi.jpg",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "images/categories/dhi-sac-ekimi.jpg",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\images\\categories\\dhi-sac-ekimi.jpg"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\images\\categories\\dis-beyazlatma.jpg",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\images\\categories\\dis-beyazlatma.jpg",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "images/categories/dis-beyazlatma.jpg",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\images\\categories\\dis-beyazlatma.jpg"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\images\\categories\\dolgu.jpg",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\images\\categories\\dolgu.jpg",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "images/categories/dolgu.jpg",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\images\\categories\\dolgu.jpg"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\images\\categories\\endodonti.jpg",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\images\\categories\\endodonti.jpg",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "images/categories/endodonti.jpg",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\images\\categories\\endodonti.jpg"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\images\\categories\\fue-sac-ekimi.jpg",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\images\\categories\\fue-sac-ekimi.jpg",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "images/categories/fue-sac-ekimi.jpg",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\images\\categories\\fue-sac-ekimi.jpg"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\images\\categories\\implant.jpg",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\images\\categories\\implant.jpg",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "images/categories/implant.jpg",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\images\\categories\\implant.jpg"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\images\\categories\\kas-ekimi.jpg",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\images\\categories\\kas-ekimi.jpg",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "images/categories/kas-ekimi.jpg",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\images\\categories\\kas-ekimi.jpg"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\images\\categories\\lazer-epilasyon.jpg",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\images\\categories\\lazer-epilasyon.jpg",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "images/categories/lazer-epilasyon.jpg",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\images\\categories\\lazer-epilasyon.jpg"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\images\\categories\\leke-tedavisi.jpg",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\images\\categories\\leke-tedavisi.jpg",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "images/categories/leke-tedavisi.jpg",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\images\\categories\\leke-tedavisi.jpg"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\images\\categories\\liposuction-2.jpg",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\images\\categories\\liposuction-2.jpg",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "images/categories/liposuction-2.jpg",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\images\\categories\\liposuction-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\images\\categories\\meme-buyutme-1.jpg",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\images\\categories\\meme-buyutme-1.jpg",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "images/categories/meme-buyutme-1.jpg",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\images\\categories\\meme-buyutme-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\images\\categories\\pedodonti.jpg",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\images\\categories\\pedodonti.jpg",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "images/categories/pedodonti.jpg",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\images\\categories\\pedodonti.jpg"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\images\\categories\\protez.jpg",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\images\\categories\\protez.jpg",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "images/categories/protez.jpg",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\images\\categories\\protez.jpg"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\images\\categories\\prp-tedavisi.jpg",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\images\\categories\\prp-tedavisi.jpg",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "images/categories/prp-tedavisi.jpg",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\images\\categories\\prp-tedavisi.jpg"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\images\\categories\\safir-fue-sac-ekimi.jpg",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\images\\categories\\safir-fue-sac-ekimi.jpg",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "images/categories/safir-fue-sac-ekimi.jpg",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\images\\categories\\safir-fue-sac-ekimi.jpg"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\images\\categories\\sakal-ekimi.jpg",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\images\\categories\\sakal-ekimi.jpg",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "images/categories/sakal-ekimi.jpg",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\images\\categories\\sakal-ekimi.jpg"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\images\\categories\\trassiz-sac-ekimi.jpg",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\images\\categories\\trassiz-sac-ekimi.jpg",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "images/categories/trassiz-sac-ekimi.jpg",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\images\\categories\\trassiz-sac-ekimi.jpg"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\images\\elements.png",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\images\\elements.png",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "images/elements.png",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\images\\elements.png"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\images\\icons\\favicon.png",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\images\\icons\\favicon.png",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "images/icons/favicon.png",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\favicon.png"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\images\\logo.png",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\images\\logo.png",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "images/logo.png",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logo.png"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\images\\menu\\aethtetic.jpg",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\images\\menu\\aethtetic.jpg",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "images/menu/aethtetic.jpg",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\images\\menu\\aethtetic.jpg"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\images\\menu\\dental.jpg",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\images\\menu\\dental.jpg",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "images/menu/dental.jpg",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\images\\menu\\dental.jpg"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\images\\menu\\hair.jpg",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\images\\menu\\hair.jpg",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "images/menu/hair.jpg",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\images\\menu\\hair.jpg"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\images\\page-header\\contact-us.jpg",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\images\\page-header\\contact-us.jpg",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "images/page-header/contact-us.jpg",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\images\\page-header\\contact-us.jpg"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\images\\payment.png",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\images\\payment.png",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "images/payment.png",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\images\\payment.png"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\images\\slides\\slide1.jpg",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\images\\slides\\slide1.jpg",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "images/slides/slide1.jpg",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slides\\slide1.jpg"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\images\\slides\\slide2.jpg",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\images\\slides\\slide2.jpg",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "images/slides/slide2.jpg",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slides\\slide2.jpg"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\images\\slides\\slide3.jpg",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\images\\slides\\slide3.jpg",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "images/slides/slide3.jpg",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slides\\slide3.jpg"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\images\\subpages\\about-us-banner.jpg",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\images\\subpages\\about-us-banner.jpg",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "images/subpages/about-us-banner.jpg",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\images\\subpages\\about-us-banner.jpg"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\images\\subpages\\about-us-img-1.jpg",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\images\\subpages\\about-us-img-1.jpg",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "images/subpages/about-us-img-1.jpg",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\images\\subpages\\about-us-img-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\images\\subpages\\about-us-img-2.jpg",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\images\\subpages\\about-us-img-2.jpg",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "images/subpages/about-us-img-2.jpg",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\images\\subpages\\about-us-img-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\images\\subpages\\error-bg.png",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\images\\subpages\\error-bg.png",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "images/subpages/error-bg.png",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\images\\subpages\\error-bg.png"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\images\\subpages\\team1.jpg",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\images\\subpages\\team1.jpg",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "images/subpages/team1.jpg",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\images\\subpages\\team1.jpg"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\images\\subpages\\team2.jpg",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\images\\subpages\\team2.jpg",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "images/subpages/team2.jpg",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\images\\subpages\\team2.jpg"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\images\\subpages\\team3.jpg",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\images\\subpages\\team3.jpg",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "images/subpages/team3.jpg",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\images\\subpages\\team3.jpg"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\images\\subpages\\team4.jpg",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\images\\subpages\\team4.jpg",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "images/subpages/team4.jpg",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\images\\subpages\\team4.jpg"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\js\\main.min.js",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\js\\main.min.js",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "js/main.min.js",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\js\\main.min.js"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\vendor\\animate\\animate.min.css",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\vendor\\animate\\animate.min.css",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/vendor/animate/animate.min.css",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\animate\\animate.min.css"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\vendor\\elevatezoom\\jquery.elevatezoom.min.js",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\vendor\\elevatezoom\\jquery.elevatezoom.min.js",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/vendor/elevatezoom/jquery.elevatezoom.min.js",
       "AssetKind": "All",
@@ -1938,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\elevatezoom\\jquery.elevatezoom.min.js"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\vendor\\fontawesome-free\\css\\all.min.css",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\vendor\\fontawesome-free\\css\\all.min.css",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/vendor/fontawesome-free/css/all.min.css",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\fontawesome-free\\css\\all.min.css"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.eot",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.eot",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/vendor/fontawesome-free/webfonts/fa-brands-400.eot",
       "AssetKind": "All",
@@ -1972,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.eot"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.svg",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.svg",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/vendor/fontawesome-free/webfonts/fa-brands-400.svg",
       "AssetKind": "All",
@@ -1989,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.svg"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.ttf",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.ttf",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/vendor/fontawesome-free/webfonts/fa-brands-400.ttf",
       "AssetKind": "All",
@@ -2006,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.ttf"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.woff",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.woff",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/vendor/fontawesome-free/webfonts/fa-brands-400.woff",
       "AssetKind": "All",
@@ -2023,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.woff"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.woff2",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.woff2",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/vendor/fontawesome-free/webfonts/fa-brands-400.woff2",
       "AssetKind": "All",
@@ -2040,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.woff2"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\vendor\\fontawesome-free\\webfonts\\fa-brands-400d41d.eot",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\vendor\\fontawesome-free\\webfonts\\fa-brands-400d41d.eot",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/vendor/fontawesome-free/webfonts/fa-brands-400d41d.eot",
       "AssetKind": "All",
@@ -2057,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\fontawesome-free\\webfonts\\fa-brands-400d41d.eot"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.eot",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.eot",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/vendor/fontawesome-free/webfonts/fa-regular-400.eot",
       "AssetKind": "All",
@@ -2074,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.eot"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.svg",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.svg",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/vendor/fontawesome-free/webfonts/fa-regular-400.svg",
       "AssetKind": "All",
@@ -2091,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.svg"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.ttf",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.ttf",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/vendor/fontawesome-free/webfonts/fa-regular-400.ttf",
       "AssetKind": "All",
@@ -2108,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.ttf"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.woff",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.woff",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/vendor/fontawesome-free/webfonts/fa-regular-400.woff",
       "AssetKind": "All",
@@ -2125,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.woff"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.woff2",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.woff2",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/vendor/fontawesome-free/webfonts/fa-regular-400.woff2",
       "AssetKind": "All",
@@ -2142,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.woff2"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\vendor\\fontawesome-free\\webfonts\\fa-regular-400d41d.eot",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\vendor\\fontawesome-free\\webfonts\\fa-regular-400d41d.eot",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/vendor/fontawesome-free/webfonts/fa-regular-400d41d.eot",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\fontawesome-free\\webfonts\\fa-regular-400d41d.eot"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.eot",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.eot",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/vendor/fontawesome-free/webfonts/fa-solid-900.eot",
       "AssetKind": "All",
@@ -2176,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.eot"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.svg",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.svg",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/vendor/fontawesome-free/webfonts/fa-solid-900.svg",
       "AssetKind": "All",
@@ -2193,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.svg"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.ttf",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.ttf",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/vendor/fontawesome-free/webfonts/fa-solid-900.ttf",
       "AssetKind": "All",
@@ -2210,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.ttf"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.woff",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.woff",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/vendor/fontawesome-free/webfonts/fa-solid-900.woff",
       "AssetKind": "All",
@@ -2227,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.woff"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.woff2",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.woff2",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/vendor/fontawesome-free/webfonts/fa-solid-900.woff2",
       "AssetKind": "All",
@@ -2244,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.woff2"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\vendor\\fontawesome-free\\webfonts\\fa-solid-900d41d.eot",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\vendor\\fontawesome-free\\webfonts\\fa-solid-900d41d.eot",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/vendor/fontawesome-free/webfonts/fa-solid-900d41d.eot",
       "AssetKind": "All",
@@ -2261,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\fontawesome-free\\webfonts\\fa-solid-900d41d.eot"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\vendor\\imagesloaded\\imagesloaded.pkgd.min.js",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\vendor\\imagesloaded\\imagesloaded.pkgd.min.js",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/vendor/imagesloaded/imagesloaded.pkgd.min.js",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\imagesloaded\\imagesloaded.pkgd.min.js"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\vendor\\jquery.count-to\\jquery.count-to.min.js",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\vendor\\jquery.count-to\\jquery.count-to.min.js",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/vendor/jquery.count-to/jquery.count-to.min.js",
       "AssetKind": "All",
@@ -2295,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\jquery.count-to\\jquery.count-to.min.js"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\vendor\\jquery\\jquery.min.js",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\vendor\\jquery\\jquery.min.js",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/vendor/jquery/jquery.min.js",
       "AssetKind": "All",
@@ -2312,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\jquery\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\vendor\\owl-carousel\\owl.carousel.min.css",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\vendor\\owl-carousel\\owl.carousel.min.css",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/vendor/owl-carousel/owl.carousel.min.css",
       "AssetKind": "All",
@@ -2329,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\owl-carousel\\owl.carousel.min.css"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\vendor\\owl-carousel\\owl.carousel.min.js",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\vendor\\owl-carousel\\owl.carousel.min.js",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/vendor/owl-carousel/owl.carousel.min.js",
       "AssetKind": "All",
@@ -2346,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\owl-carousel\\owl.carousel.min.js"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\lib\\vendor\\owl-carousel\\owl.video.play.html",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\lib\\vendor\\owl-carousel\\owl.video.play.html",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\aliye\\Desktop\\TherapyFM\\TherapyFM_Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
       "RelativePath": "lib/vendor/owl-carousel/owl.video.play.html",
       "AssetKind": "All",

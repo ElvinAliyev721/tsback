@@ -1,4 +1,6 @@
-﻿@model EmailViewModel
+﻿@using Microsoft.AspNetCore.Mvc.Localization
+@inject IViewLocalizer Localizer
+@model EmailViewModel
 
 @{
     ViewData["Title"] = "Index";
@@ -17,13 +19,13 @@
     <nav class="breadcrumb-nav">
         <div class="container">
             <ul class="breadcrumb">
-                <li><a href="/Home/Index"><i class="d-icon-home"></i></a></li>
-                <li>Contact Us</li>
+                <li><a href="/Home/Index/?ui-culture=@System.Threading.Thread.CurrentThread.CurrentCulture.ToString()"><i class="d-icon-home"></i></a></li>
+                <li>@Localizer["Contact"]</li>
             </ul>
         </div>
     </nav>
     <div class="page-header" style="background-image: url('@Url.Content("~/images/page-header/contact-us.jpg")')">
-        <h1 class="page-title font-weight-bold text-capitalize ls-l">Contact Us</h1>
+        <h1 class="page-title font-weight-bold text-capitalize ls-l">@Localizer["Contact"]</h1>
     </div>
     <div class="page-content mt-10 mb-10 pt-7">
         <section class="contact-section">
@@ -32,16 +34,16 @@
                     <div class="col-lg-3 col-md-4 col-sm-6 ls-m mb-4">
                         <div class="grey-section d-flex align-items-center h-100">
                             <div>
-                                <h4 class="mb-2 text-capitalize">Headquarters</h4>
+                                <h4 class="mb-2 text-capitalize">@Localizer["Left_header1"]</h4>
                                 <p>28 May<br>Turkey, Istanbul</p>
 
-                                <h4 class="mb-2 text-capitalize">Phone Number</h4>
+                                <h4 class="mb-2 text-capitalize">@Localizer["Left_header2"]</h4>
                                 <p>
                                     <a href="tel:#">json:data</a><br>
                                     <a href="tel:#">json:data</a>
                                 </p>
 
-                                <h4 class="mb-2 text-capitalize">Support</h4>
+                                <h4 class="mb-2 text-capitalize">@Localizer["Left_header3"]</h4>
                                 <p class="mb-4">
                                     <a href="#">json:data</a><br>
                                     <a href="#">json:data</a><br>
@@ -52,10 +54,9 @@
                     <div class="col-lg-9 col-md-8 col-sm-6 d-flex align-items-center">
                         <div class="w-100">
                             <form class="pl-lg-2" action="SendEmail">
-                                <h4 class="ls-m font-weight-bold">Let’s Connect</h4>
+                                <h4 class="ls-m font-weight-bold">@Localizer["Header1"]</h4>
                                 <p>
-                                    Your email address will not be published. Required fields are
-                                    marked *
+                                    @Localizer["Info_message"]
                                 </p>
                                 <div class="row mb-2">
                                     <div class="col-12 mb-4">
@@ -70,7 +71,7 @@
                                     </div>
                                 </div>
                                 <button class="btn btn-dark btn-rounded">
-                                    Post Comment<i class="d-icon-arrow-right"></i>
+                                    @Localizer["Button_text"]<i class="d-icon-arrow-right"></i>
                                 </button>
                             </form>
                         </div>
