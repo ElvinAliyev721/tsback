@@ -35,18 +35,26 @@ namespace TherapyFM_Web.Areas.Admin.Controllers
         [HttpPost]
         public IActionResult UpdateContact(User user)
         {
-            var filePath = Path.Combine(_environment.ContentRootPath, "data.json");
-            var json = System.IO.File.ReadAllText(filePath);
+            try
+            {
+                var filePath = Path.Combine(_environment.ContentRootPath, "data.json");
+                var json = System.IO.File.ReadAllText(filePath);
 
-            //var user = JsonConvert.DeserializeObject<User>(json);
-            var dbuser = System.Text.Json.JsonSerializer
-                .Deserialize<User>(json, new JsonSerializerOptions() { PropertyNameCaseInsensitive = false });
-            dbuser.email= user.email;
-            dbuser.whatsapp= user.whatsapp;
-            var updateddata = System.Text.Json.JsonSerializer.Serialize(dbuser);
-            System.IO.File.WriteAllText(filePath, updateddata);
+                //var user = JsonConvert.DeserializeObject<User>(json);
+                var dbuser = System.Text.Json.JsonSerializer
+                    .Deserialize<User>(json, new JsonSerializerOptions() { PropertyNameCaseInsensitive = false });
+                dbuser.email = user.email;
+                dbuser.whatsapp = user.whatsapp;
+                dbuser.companyname = user.companyname;
+                var updateddata = System.Text.Json.JsonSerializer.Serialize(dbuser);
+                System.IO.File.WriteAllText(filePath, updateddata);
+                return RedirectToAction("Index");
+            }
+            catch (Exception)
+            {
+                return RedirectToAction("Index","Error");
+            }
 
-            return RedirectToAction("Index");
         }
     }
 }

@@ -5,16 +5,12 @@
 @using System.Globalization;
 @inject IViewLocalizer Localizer;
 
-
-
 @{
     string currentController = ViewContext.RouteData.Values["controller"].ToString();
-
     var path = System.IO.Path.Combine(Directory.GetCurrentDirectory(), "", "data.json");
     var json = File.ReadAllText(path);
     var data = JsonSerializer.Deserialize<User>(json);
-
-
+    string waURL = "https://wa.me/" + data.whatsapp;
 }
 
 <!DOCTYPE html>
@@ -23,7 +19,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-    <title>TherapyFM</title>
+    <title>@data.companyname</title>
 
     <!-- Favicon -->
     <link rel="icon" type="image/png" href="~/images/icons/favicon.png">
@@ -35,6 +31,28 @@
     <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
     <!-- Main CSS File -->
     @await RenderSectionAsync("styles", required: true)
+    <style>
+        .logo-img{
+            width: 120px !important;
+            height: 100px !important;
+            display: block !important;
+        }
+        .logo-footer-img-1{
+            width: 180px !important;
+            height: 150px !important;
+            display: block !important;
+        }
+        .logo-footer-img-2 {
+            width: 270px !important;
+            height: 240px !important;
+            display: block !important;
+        }
+        .logo-name{
+            font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size:24px;
+            color:dimgray;
+        }
+    </style>
 </head>
 <body class="home">
 
@@ -44,7 +62,7 @@
             <div class="header-top">
                 <div class="container">
                     <div class="header-left">
-                        <a class="welcome-msg d-flex justify-content-center align-items-center" href="https://wa.me/+994708411308"><i class='bx bxl-whatsapp-square bx-lg'></i> Whatsapp</a>
+                        <a class="welcome-msg d-flex justify-content-center align-items-center" href="@waURL"><i class='bx bxl-whatsapp-square bx-lg'></i> Whatsapp</a>
                     </div>
                     <div class="header-right">
                         <!-- End DropDown Menu -->
@@ -59,6 +77,9 @@
                                 </li>
                                 <li>
                                     <a href="@Url.Action("Index", currentController, new { culture = "tr-TR", returnUrl = Context.Request.Path })">TUR</a>
+                                </li>
+                                <li>
+                                    <a href="@Url.Action("Index", currentController, new { culture = "ru-RU", returnUrl = Context.Request.Path })">RUS</a>
                                 </li>
                             </ul>
                         </div>
@@ -76,8 +97,9 @@
                         <a href="#" class="mobile-menu-toggle">
                             <i class="d-icon-bars2"></i>
                         </a>
-                        <a href="/Home/Index/?ui-culture=@System.Threading.Thread.CurrentThread.CurrentCulture.ToString()" class="logo">
-                            <img src="~/images/logo.png" alt="logo" width="233" height="84" />
+                        <a href="/Home/Index/?ui-culture=@System.Threading.Thread.CurrentThread.CurrentCulture.ToString()" class="logo d-flex justify-content-between align-items-center">
+                            <img src="~/images/logo.png" alt="logo" class="logo-img" />
+                            <h5 class="logo-name">@data.companyname</h5>
                         </a>
                         <nav class="main-nav">
                             <ul class="menu">
@@ -210,8 +232,8 @@
             <div class="footer-top">
                 <div class="row align-items-center">
                     <div class="col-lg-3">
-                            <a href="/Home/Index/?ui-culture=@System.Threading.Thread.CurrentThread.CurrentCulture.ToString()" class="logo-footer">
-                            <img src="~/images/logo.png" alt="logo-footer" width="254" height="83" />
+                            <a href="/Home/Index/?ui-culture=@System.Threading.Thread.CurrentThread.CurrentCulture.ToString()" class="logo-footer-1">
+                                <img src="~/images/logo.png" alt="logo-footer" class="logo-footer-img-1" />
                         </a>
                         <!-- End FooterLogo -->
                     </div>
@@ -264,7 +286,7 @@
                     </div>
                     <div class="col-lg-3 col-md-6">
                         <div class="widget ml-lg-4">
-                            <h4 class="widget-title">THERAPYFM</h4>
+                            <h4 class="widget-title">@data.companyname.ToUpper()</h4>
                             <p>
                                     @Localizer["About_footer_text_2"]
                             </p>
@@ -273,7 +295,7 @@
                     </div>
                     <div class="col-lg-3 col-md-6">
                         <div class="widget widget-instagram">
-                            <img src="~/images/logo.png" alt="Logo">
+                                <img src="~/images/logo.png" alt="Logo" class="logo-footer-img-2">
                         </div>
                     </div>
                 </div>

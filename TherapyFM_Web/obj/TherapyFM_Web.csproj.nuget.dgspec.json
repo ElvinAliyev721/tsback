@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\TherapyFM_Web.csproj": {}
+    "C:\\Users\\vusal\\Desktop\\Java\\tsback\\TherapyFM_Web\\TherapyFM_Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\TherapyFM_Web.csproj": {
+    "C:\\Users\\vusal\\Desktop\\Java\\tsback\\TherapyFM_Web\\TherapyFM_Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\TherapyFM_Web.csproj",
+        "projectUniqueName": "C:\\Users\\vusal\\Desktop\\Java\\tsback\\TherapyFM_Web\\TherapyFM_Web.csproj",
         "projectName": "TherapyFM_Web",
-        "projectPath": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\TherapyFM_Web.csproj",
-        "packagesPath": "C:\\Users\\aliye\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aliye\\Desktop\\ready_therapy\\TherapyFM-main\\TherapyFM_Web\\obj\\",
+        "projectPath": "C:\\Users\\vusal\\Desktop\\Java\\tsback\\TherapyFM_Web\\TherapyFM_Web.csproj",
+        "packagesPath": "C:\\Users\\vusal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vusal\\Desktop\\Java\\tsback\\TherapyFM_Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\aliye\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vusal\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -84,7 +84,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

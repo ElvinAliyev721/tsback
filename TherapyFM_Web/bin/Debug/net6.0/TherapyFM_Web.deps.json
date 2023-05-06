@@ -24,6 +24,9 @@
           "en-US/TherapyFM_Web.resources.dll": {
             "locale": "en-US"
           },
+          "ru-RU/TherapyFM_Web.resources.dll": {
+            "locale": "ru-RU"
+          },
           "tr-TR/TherapyFM_Web.resources.dll": {
             "locale": "tr-TR"
           }

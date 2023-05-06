@@ -1,7 +1,11 @@
 ﻿using MailKit.Net.Smtp;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
 using MimeKit;
+using System.IO;
 using TherapyFM_Web.Models;
+using System.Text.Json;
+using Org.BouncyCastle.Crypto.Macs;
 
 namespace TherapyFM_Web.Controllers
 {
@@ -14,12 +18,24 @@ namespace TherapyFM_Web.Controllers
 
         public async Task<IActionResult> SendEmail(EmailViewModel data)
         {
+            var path = System.IO.Path.Combine(Directory.GetCurrentDirectory(), "", "data.json");
+            var json = System.IO.File.ReadAllText(path);
+            User? info = JsonSerializer.Deserialize<User>(json);
+            if(info is null)
+            {
+                info = new User()
+                {
+                    companyname = "Company",
+                    email = "therapyfm2015@gmail.com"
+                };
+            }
             MimeMessage mimeMessage = new MimeMessage();
-            mimeMessage.From.Add(new MailboxAddress($"TherapyFM Message from {data.Name}", "xxmixx25@gmail.com"));
-            mimeMessage.To.Add(new MailboxAddress("Admin", "vusal.memmedli25@gmail.com"));
+            mimeMessage.From.Add(new MailboxAddress($"Message from {data.Name}", data.Email));
+            mimeMessage.To.Add(new MailboxAddress("Admin", info.email));
             mimeMessage.Body = new TextPart("html")
             {
                 Text = @$"<body style=""background-color: #f6f6f6; font-family: sans-serif; -webkit-font-smoothing: antialiased; font-size: 14px; line-height: 1.4; margin: 0; padding: 0; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;"">
+    <div style=""width:100%;margin-top:10px;margin-bottom:10px; text-align:center;""><img  width=""150"" height=""150"" src=""https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Yandex_Mail_icon.svg/1200px-Yandex_Mail_icon.svg.png""/></div>
     <span class=""preheader"" style=""color: transparent; display: none; height: 0; max-height: 0; max-width: 0; opacity: 0; overflow: hidden; mso-hide: all; visibility: hidden; width: 0;"">New email from {data.Name}!</span>
     <table role=""presentation"" border=""0"" cellpadding=""0"" cellspacing=""0"" class=""body"" style=""border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #f6f6f6; width: 100%;"" width=""100%"" bgcolor=""#f6f6f6"">
       <tr>
@@ -53,12 +69,12 @@ namespace TherapyFM_Web.Controllers
     </table>
   </body>"
             };
-            mimeMessage.Subject = $"TherapyFM - New email from {data.Name}";
+            mimeMessage.Subject = $"{info.companyname} - New email from {data.Name}";
 
             using (SmtpClient smtpClient = new SmtpClient())
             {
                 await smtpClient.ConnectAsync("smtp.gmail.com", 587, false);
-                await smtpClient.AuthenticateAsync("xxmixx25@gmail.com", "bzoprriurbinqdjg");
+                await smtpClient.AuthenticateAsync("therapyfmmailsender@gmail.com", "vvfaeaepzlmqvjks");
                 await smtpClient.SendAsync(mimeMessage);
                 await smtpClient.DisconnectAsync(true);
                 smtpClient.Dispose();

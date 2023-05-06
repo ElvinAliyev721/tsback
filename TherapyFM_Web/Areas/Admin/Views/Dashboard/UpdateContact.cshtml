@@ -9,12 +9,16 @@
             <div class="pt-4">
                 <form action="UpdateContact" method="post">
                     <div class="p-3">
-                        <label for="tb-title">Bilet adı</label>
+                        <label for="tb-title">Şirkət adı</label>
+                        <input id="tb-title" asp-for="companyname" class="form-control" type="text" placeholder="Company name" required />
+                    </div>
+                    <div class="p-3">
+                        <label for="tb-title">Email</label>
                         <input id="tb-title" asp-for="email" class="form-control" type="text" placeholder="test@gmail.com" required />
                     </div>
                     <div class="p-3">
                         <label for="tb-price">Whatsapp</label>
-                        <input id="tb-title" asp-for="whatsapp" class="form-control" type="text" placeholder="+994" required />
+                        <input id="tb-title" asp-for="whatsapp" class="form-control" type="text" placeholder="+9941234567" required />
                     </div>
                     <div class="text-center p-3">
                         <button type="button" onclick="window.location.href='/Admin/Dashboard/Index'" class="custom-admin-cancel">Ləğv et</button>

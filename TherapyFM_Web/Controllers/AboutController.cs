@@ -3,19 +3,11 @@ using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using TherapyFM_Web.Models;
 
-//public class User
-//{
-//    public int Id { get; set; }
-//    public string Name { get; set; }
-//    public string Email { get; set; }
-//}
-
 public class MyOtherObject
 {
     public string Property1 { get; set; }
     public int Property2 { get; set; }
 }
-
 
 namespace TherapyFM_Web.Controllers
 {

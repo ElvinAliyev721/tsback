@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Diagnostics;
+using System.Globalization;
 using System.Text.Json;
 using TherapyFM_Web.Models;
 
@@ -31,7 +32,7 @@ namespace TherapyFM_Web.Controllers
 
         public IActionResult SetCulture(string culture, string returnUrl)
         {
-            var supportedCultures = new[] { "en-US", "az-Latn-AZ", "tr-TR" };
+            var supportedCultures = new[] { "en-US", "az-Latn-AZ", "tr-TR", "ru-RU" };
 
             if (!supportedCultures.Contains(culture))
             {

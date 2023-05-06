@@ -1,9 +1,14 @@
 ﻿@using Microsoft.AspNetCore.Mvc.Localization
+@using System.Text.Json;
 @inject IViewLocalizer Localizer
 
 @{
     ViewData["Title"] = "Index";
     Layout = "~/Views/Shared/_Layout.cshtml";
+    string currentController = ViewContext.RouteData.Values["controller"].ToString();
+    var path = System.IO.Path.Combine(Directory.GetCurrentDirectory(), "", "data.json");
+    var json = File.ReadAllText(path);
+    var data = JsonSerializer.Deserialize<User>(json);
 }
 
 @section styles {
@@ -24,12 +29,8 @@
         </div>
     </nav>
     <div class="page-header pl-4 pr-4" style="background-image: url('@Url.Content("~/images/subpages/about-us-banner.jpg")')">
-        <h3 class="page-subtitle font-weight-bold">HealthYFM</h3>
+        <h3 class="page-subtitle font-weight-bold">@data.companyname</h3>
         <h1 class="page-title font-weight-bold lh-1 text-white text-capitalize">@Localizer["Our_serv"]</h1>
-        <p class="page-desc text-white mb-0">
-            Lorem quis bibendum auctor, nisi elit consequat ipsum, nec
-            sagittis sem nibh id elit.
-        </p>
     </div>
     <div class="page-content mt-10 pt-10">
         <section class="about-section pb-10 appear-animate">
