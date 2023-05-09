@@ -1,4 +1,21 @@
-﻿<form method="post" action="UploadLogo" enctype="multipart/form-data">
-    <input type="file" name="file" />
-    <button type="submit">Upload</button>
-</form>
+﻿<div class="container p-4">
+    <div class="bg-light white-card">
+        <div>
+            <div class="text-center p-3">
+                <h1>Bileti düzənlə</h1>
+            </div>
+            <div class="pt-4">
+                <form method="post" action="UploadLogo" enctype="multipart/form-data">
+                    <div class="p-3">
+                        <label for="tb-title">Logo</label>
+                        <input id="tb-title" type="file" name="file" class="form-control" />
+                    </div>
+                    <div class="text-center p-3">
+                        <button type="button" onclick="window.location.href='/Admin/Dashboard/Index'" class="custom-admin-cancel">Ləğv et</button>
+                        <button type="submit" id="btn-save" class="custom-admin-button">Tətbiq et</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

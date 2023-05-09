@@ -32,38 +32,6 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Admin\dashboard.html))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Admin\images\20220801173002_42c6d215-63b8-46c3-a045-1c29caa7498e_Seyyadqaqa.jpeg))">
-      <SourceType>Package</SourceType>
-      <SourceId>TherapyFM_Web</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/TherapyFM_Web</BasePath>
-      <RelativePath>Admin/images/20220801173002_42c6d215-63b8-46c3-a045-1c29caa7498e_Seyyadqaqa.jpeg</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Admin\images\20220801173002_42c6d215-63b8-46c3-a045-1c29caa7498e_Seyyadqaqa.jpeg))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Admin\images\20220801173154_a28f7c4b-59aa-41f4-b84e-35595fa81c76_Seyyadqaqa.jpeg))">
-      <SourceType>Package</SourceType>
-      <SourceId>TherapyFM_Web</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/TherapyFM_Web</BasePath>
-      <RelativePath>Admin/images/20220801173154_a28f7c4b-59aa-41f4-b84e-35595fa81c76_Seyyadqaqa.jpeg</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Admin\images\20220801173154_a28f7c4b-59aa-41f4-b84e-35595fa81c76_Seyyadqaqa.jpeg))</OriginalItemSpec>
-    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Admin\images\Sociabble-header_Company-contact-us-3.png))">
       <SourceType>Package</SourceType>
       <SourceId>TherapyFM_Web</SourceId>
