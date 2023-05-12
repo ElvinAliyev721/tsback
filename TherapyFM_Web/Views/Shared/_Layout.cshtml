@@ -69,6 +69,10 @@
             font-size:24px;
             color:dimgray;
         }
+        .wp-icon-custom:before{
+            font-size:45px;
+            color:forestgreen;
+        }
     </style>
 </head>
 <body class="home">
@@ -79,7 +83,9 @@
             <div class="header-top">
                 <div class="container">
                     <div class="header-left">
-                        <a class="welcome-msg d-flex justify-content-center align-items-center" href="@waURL"><i class='bx bxl-whatsapp-square bx-lg'></i> Whatsapp</a>
+                        <a class="welcome-msg d-flex justify-content-center align-items-center" href="@waURL">
+                            <i class='wp-icon-custom bx bxl-whatsapp-square bx-lg'></i> Whatsapp
+                        </a>
                     </div>
                     <div class="header-right">
                         <!-- End DropDown Menu -->
@@ -229,7 +235,7 @@
                         <!-- End Logo -->
                     </div>
                     <div class="header-right">
-                        <a href="tel:#" class="icon-box icon-box-side">
+                        <a href="tel:@data.whatsapp" class="icon-box icon-box-side">
                             <div class="icon-box-icon mr-0 mr-lg-2">
                                 <i class="d-icon-phone"></i>
                             </div>
