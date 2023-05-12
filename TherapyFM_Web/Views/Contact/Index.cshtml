@@ -7,9 +7,11 @@
 @{
     ViewData["Title"] = "Index";
     Layout = "~/Views/Shared/_Layout.cshtml";
+    string currentController = ViewContext.RouteData.Values["controller"].ToString();
     var path = System.IO.Path.Combine(Directory.GetCurrentDirectory(), "", "data.json");
     var json = File.ReadAllText(path);
     var data = JsonSerializer.Deserialize<User>(json);
+    string waURL = "https://wa.me/" + data.whatsapp;
 }
 
 @section styles {
@@ -40,17 +42,23 @@
                         <div class="grey-section d-flex align-items-center h-100">
                             <div>
                                 <h4 class="mb-2 text-capitalize">@Localizer["Left_header1"]</h4>
-                                <p>28 May<br>Turkey, Istanbul</p>
+                                <p>Turkey, Istanbul</p>
 
                                 <h4 class="mb-2 text-capitalize">@Localizer["Left_header2"]</h4>
                                 <p>
                                     <a href="tel:#">@data.whatsapp</a><br>
-                                </p>
+                                    <a class="welcome-msg"
+                                       href="@waURL">
+                                        <i class='bx bxl-whatsapp-square bx-lg'></i>
+                                    </a>
 
-                                <h4 class="mb-2 text-capitalize">@Localizer["Left_header3"]</h4>
+                                    @*insta icon*@
+
+                                </p>
+                                @*<h4 class="mb-2 text-capitalize">@Localizer["Left_header3"]</h4>
                                 <p class="mb-4">
                                     <a href="#">@data.whatsapp</a><br>
-                                </p>
+                                </p>*@
                             </div>
                         </div>
                     </div>

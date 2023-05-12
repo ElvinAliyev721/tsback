@@ -124,13 +124,13 @@
     <value>Bize Ulaşın</value>
   </data>
   <data name="Header1" xml:space="preserve">
-    <value>Hadi bağlanalım</value>
+    <value>Bana Sorun</value>
   </data>
   <data name="Info_message" xml:space="preserve">
     <value>Email adresiniz paylaşılmayacaktır. Gerekli alanlar işaretlendi *</value>
   </data>
   <data name="Left_header1" xml:space="preserve">
-    <value>Merkez</value>
+    <value>Adres</value>
   </data>
   <data name="Left_header2" xml:space="preserve">
     <value>İletişim numarası</value>

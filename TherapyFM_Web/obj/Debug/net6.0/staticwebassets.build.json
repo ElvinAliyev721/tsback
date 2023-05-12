@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "eOH1hvljZ/P2YOiPrZIL5i5piYkyc4/qZOsp3vYZpq4=",
+  "Hash": "5RB7MZCyC3+WzFQylsF+ie2BiiIIREJLOFHwBuqciiM=",
   "Source": "TherapyFM_Web",
   "BasePath": "_content/TherapyFM_Web",
   "Mode": "Default",
@@ -578,12 +578,12 @@
       "OriginalItemSpec": "wwwroot\\images\\elements.png"
     },
     {
-      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\tsback\\TherapyFM_Web\\wwwroot\\images\\icons\\mainLogo.png",
+      "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\tsback\\TherapyFM_Web\\wwwroot\\images\\icons\\logo.png",
       "SourceId": "TherapyFM_Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\aliye\\Desktop\\ready_therapy\\tsback\\TherapyFM_Web\\wwwroot\\",
       "BasePath": "_content/TherapyFM_Web",
-      "RelativePath": "images/icons/mainLogo.png",
+      "RelativePath": "images/icons/logo.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -592,7 +592,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\icons\\mainLogo.png"
+      "OriginalItemSpec": "wwwroot\\images\\icons\\logo.png"
     },
     {
       "Identity": "C:\\Users\\aliye\\Desktop\\ready_therapy\\tsback\\TherapyFM_Web\\wwwroot\\images\\logo.png",
